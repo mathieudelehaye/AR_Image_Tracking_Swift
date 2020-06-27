@@ -4,7 +4,7 @@ iPhone application in Swift with ARKit and SceneKit, that uses Image tracking an
 
 
 <p float="left">
-  <img src="IMG_8480.PNG" width="300" />
-  <img src="IMG_8479.PNG" width="300" /> 
+  <img src="IMG_8480.PNG" width="350" />
+  <img src="IMG_8479.PNG" width="350" /> 
 </p>
 
