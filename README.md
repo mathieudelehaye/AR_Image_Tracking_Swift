@@ -1,4 +1,10 @@
 # AR_Image_Tracking_Swift
-Swift application with ARKit using Image tracking to  display 3D scene on image top.  
 
-<img src="IMG_8480.png" width="425"/> <img src="IMG_8479.png" width="425"/> 
+iPhone application in Swift with ARKit and SceneKit, that uses Image tracking and displays a 3D scene model on the top of image after recognition.  
+
+
+<p float="left">
+  <img src="IMG_8480.PNG" width="300" />
+  <img src="IMG_8479.PNG" width="300" /> 
+</p>
+
